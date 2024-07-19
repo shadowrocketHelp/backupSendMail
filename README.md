@@ -36,8 +36,17 @@ qqqqqq是在index.php里面配置的
 ```
 
 手动执行一下定时任务2，看看是否能发送成功，发送成功证明没有问题
+----------------------
+#### 这个是成功执行定时任务的截图
 
 ![成功页面截图1](https://raw.githubusercontent.com/shadowrocketHelp/backupSendMail/main/suc1.png)
+----------------------
+#### 这个是成功收到邮件的截图
 
 ![成功页面截图2](https://raw.githubusercontent.com/shadowrocketHelp/backupSendMail/main/suc2.png)
+
+----------------------
+
+### 推荐美国appleid共享账号小火箭下载/ chatgpt plus账户地址 [点击查看](https://id.chat444.com/)
+## 推荐节点购买地址 [点击查看]([链接地址](https://ins66.com))
 
