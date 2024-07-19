@@ -47,6 +47,5 @@ qqqqqq是在index.php里面配置的
 
 ----------------------
 
-### 推荐美国appleid共享账号小火箭下载/ chatgpt plus账户地址 [点击查看](https://id.chat444.com/)
-## 推荐节点购买地址 [点击查看注册地址](https://ins66.com)
+## 推荐美国appleid共享账号小火箭下载/ chatgpt plus账户地址 [点击查看](https://id.chat444.com/)
 
