@@ -3,14 +3,17 @@
 ## aapanel PHP 使用 phpmailer 发送电子邮件 以及封装方法参考
 
 步骤特别简单，仔细看。
-### 1 宝塔新建站点 建议直接就是宝塔服务器的ip:端口（记得开发端口）
+### 1 宝塔新建站点 建议直接就是宝塔服务器的ip:端口（记得开放端口）
 
-### 2 网站-目录-关闭 防跨站攻击(open_basedir) 因为我们要读取其他目录文件，开启的话无法读取其他目录
+### 2 网站-目录-关闭 防跨站攻击(open_basedir)， 因为我们要读取其他目录文件，开启的话无法读取其他目录
 
 ### 3 进入目录站点,删除原有所有文件，然后 clone 代码
 ```
 git clone https://github.com/shadowrocketHelp/backupSendMail.git
+
+然后将backupSendMail目录里面的文件全部剪切，粘贴到网站根目录
 ```
+
 
 ### 4 添加定时任务1
 ```
@@ -18,7 +21,8 @@ git clone https://github.com/shadowrocketHelp/backupSendMail.git
 ```
 ### 5手动执行定时任务1，看一下备份文件在哪个目录，一般在
 ```
-/www/backup/database/mysql/crontab_backup/
+/www/backup/database/mysql/crontab_backup/XXX
+记住这个目录，因为要在index.php文件写这个目录路径
 ```
 ### 6 编辑index.php文件，里面有写怎么编辑
 
