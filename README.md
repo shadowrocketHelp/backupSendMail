@@ -36,3 +36,8 @@ qqqqqq是在index.php里面配置的
 ```
 
 手动执行一下定时任务2，看看是否能发送成功，发送成功证明没有问题
+
+![成功页面截图1](https://raw.githubusercontent.com/shadowrocketHelp/backupSendMail/main/suc1.png)
+
+![成功页面截图2](https://raw.githubusercontent.com/shadowrocketHelp/backupSendMail/main/suc2.png)
+
