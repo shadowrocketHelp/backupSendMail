@@ -1,4 +1,7 @@
 # backupSendMail
+
+![main](https://raw.githubusercontent.com/shadowrocketHelp/backupSendMail/main/main.png)
+
 ## 宝塔数据库自动备份并发送到指定邮箱 宝塔数据库自动备份
 ## aapanel PHP 使用 phpmailer 发送电子邮件 以及封装方法参考
 
